@@ -42,8 +42,8 @@
         <mxCell id="JU98bowy4t5v3L4y0CcG-11" value="&lt;p style=&quot;margin-left:22.0pt;text-indent:-22.0pt;&lt;br/&gt;mso-char-indent-count:0;line-height:150%;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-theme-font:&lt;br/&gt;major-fareast;mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:major-fareast&quot;&gt;存储信息采集与打印&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-8">
           <mxGeometry y="100" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JU98bowy4t5v3L4y0CcG-12" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="110" width="140" height="120" as="geometry" />
+        <mxCell id="JU98bowy4t5v3L4y0CcG-12" value="加料系统" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="130" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JU98bowy4t5v3L4y0CcG-13" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-12">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
