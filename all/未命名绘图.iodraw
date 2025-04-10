@@ -43,7 +43,7 @@
         <mxCell id="JU98bowy4t5v3L4y0CcG-10" value="&lt;p style=&quot;margin-left:22.0pt;text-indent:-22.0pt;&lt;br/&gt;mso-char-indent-count:0;line-height:150%;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-theme-font:&lt;br/&gt;major-fareast;mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:major-fareast&quot;&gt;除尘、除湿&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-8">
           <mxGeometry y="60" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JU98bowy4t5v3L4y0CcG-11" value="&lt;p style=&quot;margin-left:22.0pt;text-indent:-22.0pt;&lt;br/&gt;mso-char-indent-count:0;line-height:150%;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-theme-font:&lt;br/&gt;major-fareast;mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:major-fareast&quot;&gt;存储信息采集与打印&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-8">
+        <mxCell id="JU98bowy4t5v3L4y0CcG-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;存储信息采集与打印&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-8">
           <mxGeometry y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JU98bowy4t5v3L4y0CcG-12" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;加料系统&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -72,13 +72,13 @@
             <mxPoint x="440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JU98bowy4t5v3L4y0CcG-22" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#6666FF;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JU98bowy4t5v3L4y0CcG-8" target="JU98bowy4t5v3L4y0CcG-4">
+        <mxCell id="JU98bowy4t5v3L4y0CcG-22" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#6666FF;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JU98bowy4t5v3L4y0CcG-8" target="JU98bowy4t5v3L4y0CcG-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
             <mxPoint x="520" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JU98bowy4t5v3L4y0CcG-23" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#6666FF;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JU98bowy4t5v3L4y0CcG-4" target="JU98bowy4t5v3L4y0CcG-13">
+        <mxCell id="JU98bowy4t5v3L4y0CcG-23" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#6666FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JU98bowy4t5v3L4y0CcG-4" target="JU98bowy4t5v3L4y0CcG-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="135" as="sourcePoint" />
             <mxPoint x="400" y="370" as="targetPoint" />
