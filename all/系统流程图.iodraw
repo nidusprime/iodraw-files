@@ -1,0 +1,90 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="JU98bowy4t5v3L4y0CcG-0" value="铝粉缓存系统" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="390" width="140" height="190" as="geometry">
+            <mxRectangle x="560" y="410" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-1" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-theme-font:major-fareast;mso-fareast-theme-font:major-fareast;&lt;br/&gt;mso-hansi-theme-font:major-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;吨袋条码识别、入账&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-0">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-2" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-theme-font:major-fareast;mso-fareast-theme-font:major-fareast;&lt;br/&gt;mso-hansi-theme-font:major-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;智能调度和临时存储管理&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-0">
+          <mxGeometry y="80" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-3" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-theme-font:major-fareast;mso-fareast-theme-font:major-fareast;&lt;br/&gt;mso-hansi-theme-font:major-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;出入库信息采集、定位、流转&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-0">
+          <mxGeometry y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-4" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;转运系统&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="280" width="140" height="160" as="geometry">
+            <mxRectangle x="390" y="320" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-5" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;宋体;mso-ascii-theme-font:major-fareast;mso-fareast-theme-font:major-fareast;&lt;br/&gt;mso-hansi-theme-font:major-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;AGV&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-theme-font:major-fareast;mso-fareast-theme-font:major-fareast;&lt;br/&gt;mso-hansi-theme-font:major-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;自动路径规划与运输&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-4">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-6" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-left:22.0pt;text-indent:-22.0pt;&lt;br/&gt;mso-char-indent-count:0;line-height:150%;mso-list:l0 level1 lfo1&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;提升机上下层转运&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-4">
+          <mxGeometry y="80" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-7" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;智能吊吊运&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-4">
+          <mxGeometry y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-8" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-theme-font:major-fareast;mso-fareast-theme-font:major-fareast;&lt;br/&gt;mso-hansi-theme-font:major-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;预烘系统&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="130" width="140" height="160" as="geometry">
+            <mxRectangle x="590" y="125" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-9" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-theme-font:major-fareast;mso-fareast-theme-font:major-fareast;&lt;br/&gt;mso-hansi-theme-font:major-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;铝粉预烘&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-8">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-10" value="&lt;p style=&quot;margin-left:22.0pt;text-indent:-22.0pt;&lt;br/&gt;mso-char-indent-count:0;line-height:150%;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-theme-font:&lt;br/&gt;major-fareast;mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:major-fareast&quot;&gt;除尘、除湿&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-8">
+          <mxGeometry y="60" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;存储信息采集与打印&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-8">
+          <mxGeometry y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-12" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;加料系统&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="160" width="140" height="150" as="geometry">
+            <mxRectangle x="350" y="130" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-13" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;铝粉的过筛&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-12">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;动态计量&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-12">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-15" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-theme-font:major-fareast;mso-fareast-theme-font:major-fareast;&lt;br/&gt;mso-hansi-theme-font:major-fareast;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;工艺参数采集与系统交互&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JU98bowy4t5v3L4y0CcG-12">
+          <mxGeometry y="90" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-20" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JU98bowy4t5v3L4y0CcG-0" target="JU98bowy4t5v3L4y0CcG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="570" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-21" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.429;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JU98bowy4t5v3L4y0CcG-6" target="JU98bowy4t5v3L4y0CcG-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-22" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#6666FF;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JU98bowy4t5v3L4y0CcG-8" target="JU98bowy4t5v3L4y0CcG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU98bowy4t5v3L4y0CcG-23" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#6666FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JU98bowy4t5v3L4y0CcG-4" target="JU98bowy4t5v3L4y0CcG-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="135" as="sourcePoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
